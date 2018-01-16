@@ -1,4 +1,4 @@
-# jspwiki2dokuwiki
+# JSPWiki to DokuWiki Converter
 A couple of scripts to assist in migrating a site from JSPWiki to DokuWiki
 
 These two scripts were developed to aid in the migration of 1600+ pages from JSPWiki to Dokuwiki.
